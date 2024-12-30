@@ -8,3 +8,4 @@ Libraries for Data Science is a comprehensive collection of Python code snippets
 - Data Variety: Faker can generate a broad array of data types, from personal information to specific domains like finance, location, internet, and job-related data.
 - Localization Support: Faker allows you to specify locales (e.g., en_US for the United States, hi_IN for India), so you can generate data that is culturally relevant.
 - Randomization: Faker generates random data each time, adding diversity to the mock data.
+- 
